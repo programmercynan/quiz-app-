@@ -1,0 +1,63 @@
+[
+    {
+      "question": "Who painted the Mona Lisa?",
+      "image": "images/monalisa.jpg",
+      "answers": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the name of the famous sculpture by Michelangelo?",
+      "image": "images/david.jpg",
+      "answers": ["The Thinker", "David", "Venus de Milo", "The Kiss"],
+      "correctAnswer": "David"
+    },
+    {
+      "question": "Which artist is known for the 'Starry Night' painting?",
+      "image": "images/starrynight.jpg",
+      "answers": ["Vincent van Gogh", "Claude Monet", "Edvard Munch", "Salvador Dalí"],
+      "correctAnswer": "Vincent van Gogh"
+    },
+    {
+      "question": "Who painted the 'The Persistence of Memory'?",
+      "image": "images/persistence.jpg",
+      "answers": ["Pablo Picasso", "Salvador Dalí", "Frida Kahlo", "Georgia O'Keeffe"],
+      "correctAnswer": "Salvador Dalí"
+    },
+    {
+      "question": "Which artist is famous for his 'Campbell's Soup Cans' series?",
+      "image": "images/campbell.jpg",
+      "answers": ["Andy Warhol", "Jackson Pollock", "Mark Rothko", "Roy Lichtenstein"],
+      "correctAnswer": "Andy Warhol"
+    },
+    {
+      "question": "Which of the following is a famous work by Edvard Munch?",
+      "image": "images/scream.jpg",
+      "answers": ["The Scream", "Guernica", "The Persistence of Memory", "The Kiss"],
+      "correctAnswer": "The Scream"
+    },
+    {
+      "question": "Who painted 'The Last Supper'?",
+      "image": "images/lastsupper.jpg",
+      "answers": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which artist painted 'The Girl with a Pearl Earring'?",
+      "image": "images/girlwithpearl.jpg",
+      "answers": ["Johannes Vermeer", "Rembrandt", "Jan van Eyck", "Claude Monet"],
+      "correctAnswer": "Johannes Vermeer"
+    },
+    {
+      "question": "Which artist is known for his surrealist paintings?",
+      "image": "images/dali.jpg",
+      "answers": ["Salvador Dalí", "Pablo Picasso", "Claude Monet", "Jackson Pollock"],
+      "correctAnswer": "Salvador Dalí"
+    },
+    {
+      "question": "What famous piece of art did Leonardo da Vinci create in the 16th century?",
+      "image": "images/lastsupper.jpg",
+      "answers": ["Mona Lisa", "The Last Supper", "Vitruvian Man", "The Baptism of Christ"],
+      "correctAnswer": "The Last Supper"
+    }
+  ]
+  
