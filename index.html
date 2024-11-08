@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="quiz-container">
+        <!-- Quiz Heading -->
+         <h1>General Knowledge Quiz</h1>
+
+         <!-- Timer Display -->
+          <div id="timer">Time: <span id="time-remaining">30</span> seconds</div>
+
+          <!-- Question Container -->
+           <div id="question-container">
+            <div id="question-text">Question will appear here</div>
+            <div id="answer-buttons" class="btn-container">
+                <!-- Answer buttons will be generated here dynamically -->
+
+            </div>
+
+           </div>
+
+           <!-- Next Button -->
+            <button id="next-btn">Next-question</button>
+
+            <!-- Final Score Summary -->
+             <div id="score-summary" class="hidden">
+                <h2>Quiz Complete!</h2>
+                <p>Your Score: <span id="final-score">0</span></p>
+                <button id="restart-btn">Restart Quiz</button>
+
+             </div>
+
+          
+
+    </div>
+    <script src="script.js"></script>
+    
+</body>
+</html>
