@@ -75,6 +75,20 @@
     color: #ff6961; /* Soft red for urgency */
     margin-bottom: 1rem;
   }
+
+  /* Fade-in animation for new questions */
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
   
-  
+  .question-container {
+    animation: fadeIn 0.5s ease-in-out;
+  }
   
