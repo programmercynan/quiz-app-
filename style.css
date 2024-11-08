@@ -43,5 +43,30 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
     margin: 1rem 0;
   }
+
+  /* Answer button styles */
+.answer-button {
+    display: inline-block;
+    width: 100%;
+    max-width: 250px;
+    padding: 0.8rem;
+    margin: 0.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #2b5876;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease, background-color 0.3s;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+  }
+  
+  .answer-button:hover {
+    background-color: #4e4376;
+    color: #ffffff;
+    transform: translateY(-2px);
+  }
+  
   
   
