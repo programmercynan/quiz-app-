@@ -91,4 +91,18 @@
   .question-container {
     animation: fadeIn 0.5s ease-in-out;
   }
-  
+
+
+  /* Final score style */
+.final-score {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #f4e04d; /* Golden yellow */
+  margin-top: 1.5rem;
+}
+
+.final-message {
+  font-size: 1.5rem;
+  color: #ffffff;
+  margin: 1rem 0;
+}
